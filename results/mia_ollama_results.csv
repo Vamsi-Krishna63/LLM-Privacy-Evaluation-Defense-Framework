@@ -1,0 +1,5 @@
+llama2,MembershipInference,0.4000
+mistral,MembershipInference,0.4333
+gemma,MembershipInference,0.3667
+phi,MembershipInference,0.4667
+deepseek-r1,MembershipInference,0.4667

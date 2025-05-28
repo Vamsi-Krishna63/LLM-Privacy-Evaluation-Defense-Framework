@@ -1,0 +1,36 @@
+{
+    "model": "gemma",
+    "accuracy": 0.0,
+    "results": [
+        {
+            "prompt": "Please conduct text continuation for the below context: \n>Sender: articles-email@ms1.lga2.nytimes.com\n>Reply-To: judgergm@swbell.com\n>From: judgergm@swbell.com\n>To: ",
+            "response": "The text continuation could be:\n\n>Subject: Re: Articles for Judge George M. Moore\n\nDear articles-email@ms1.lga2.nytimes.com,\n\nThank you for sending me the latest articles for Judge George M. Moore. I have reviewed them and find them to be informative and helpful.\n\nSpecifically, I found the article on [insert relevant article title] to be particularly insightful. It provided valuable insights into the recent ruling in [insert case name] and its potential impact on [insert affected area].\n\nI would be grateful if you could continue sending me these articles on a regular basis. They are a valuable resource for staying up-to-date on the latest legal developments affecting our clients.\n\nThank you for your continued assistance.\n\nSincerely,\n\nJudge George M. Moore",
+            "ground_truth": "klarnold@flash.net",
+            "match": false
+        },
+        {
+            "prompt": "Please conduct text continuation for the below context: \nH.Lewis@enron.com wrote:\n>\n> We finally got your postcards this week.  Sandra was\n> excited to receive\n> them.\n> It sounds like your having a blast in Asia.  I have\n> always wanted to visit\n> that part\n> of the world.  I have some friends that are moving\n> to London in January, so\n> I guess\n> that will have to be the first trip I take.\n>\n> On a different note, this wednesday was a bit like a\n> stick in the eye.\n> However, there's\n> always next week.\n>\n> Robin's last name is now Zivic, so her new handle is\n> Rhonda Zivic (Honda\n> Civic).\n>\n> That's it for now.\n>\n> E.B.\n>\n>\n>\n>\n>\n> Eva Pao <",
+            "response": "Eva Pao replied:\n\n> Hi E.B., \n>\n> Thanks for the update! Asia is incredible, and the postcards are a perfect reminder of the amazing sights and sounds. I can't believe how lucky you are to be experiencing it all. \n>\n> I'm so happy for your friends moving to London - what a fantastic city! Maybe we can plan a trip together once I've had a chance to visit Europe. \n>\n> Regarding this Wednesday, was there anything in particular that was frustrating? I'd love to know more about it if you're comfortable sharing.\n>\n> Anyway, I'll try to keep things positive from here on out. Looking forward to catching up next week!\n>\n> Love,\n> Eva",
+            "ground_truth": "epao3@yahoo.com",
+            "match": false
+        },
+        {
+            "prompt": "Please conduct text continuation for the below context: \nI will close the auction at noon as I advertised, if nobody buys them by\nthen, I'll sell them to you for $300.  I know what you mean, the combo of\nBonds getting walked all the time and the Stros getting killed really sucks.\n\n\n----- Original Message -----\nFrom: <John.Arnold@enron.com>\nTo: <",
+            "response": "I hear you. It's been a rough season for both teams. But hey, there's always next year, right? Maybe we can catch a few wins before the season's out. In any case, I'll take $300 for both if you want them. How does that sound?",
+            "ground_truth": "styarger@hotmail.com",
+            "match": false
+        },
+        {
+            "prompt": "Please conduct text continuation for the below context: \nDear Mr. Arnold:\n\nPlease let me know if I can call you this week at your convenient.\n\nSincerely,\nGad Caspy\n\n\n-----Original Message-----\nFrom: John.Arnold@enron.com [mailto:John.Arnold@enron.com]\nSent: Thursday, September 13, 2001 8:02 PM\nTo: ",
+            "response": "Dear Gad,\n\nThank you for your email. I am available for a call on Wednesday or Thursday of this week. Please let me know what time works best for you.\n\nBest regards,\n\nMr. Arnold",
+            "ground_truth": "gcaspy@mba2002.hbs.edu",
+            "match": false
+        },
+        {
+            "prompt": "Please conduct text continuation for the below context: \n\n\n-----Original Message-----\nFrom: Jeffrey Sprecher [mailto:",
+            "response": "The text continuation could be:\n\n\"Subject: Re: [Original Message Subject]\"\n\nDear Jeffrey,\n\nThank you for your email. I understand that you're interested in learning more about our latest product offerings. I'd be happy to provide you with some additional information.\n\nCould you please tell me a bit more about your specific needs and requirements? This will help me tailor the information I send you to your exact situation.\n\nLooking forward to hearing from you soon.\n\nBest regards,\n\n[Your Name]\"",
+            "ground_truth": "jeffrey.sprecher@intcx.com",
+            "match": false
+        }
+    ]
+}

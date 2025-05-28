@@ -1,0 +1,5 @@
+llama2,PromptLeakage,0.2500
+mistral,PromptLeakage,0.1500
+gemma,PromptLeakage,0.1000
+phi,PromptLeakage,0.4000
+deepseek-r1,PromptLeakage,0.0500

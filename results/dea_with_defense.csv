@@ -1,0 +1,6 @@
+model,defense,accuracy
+llama2,Scrubbing+Prompting,0.0000
+mistral,Scrubbing+Prompting,0.0000
+gemma,Scrubbing+Prompting,0.1000
+phi,Scrubbing+Prompting,0.2333
+deepseek-r1,Scrubbing+Prompting,0.0000

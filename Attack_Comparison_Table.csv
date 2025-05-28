@@ -1,0 +1,6 @@
+model,DataExtraction,Jailbreak,MembershipInference,PromptLeakage
+deepseek-r1,0.6333,0.5111,0.4667,0.05
+gemma,0.6,0.8222,0.3667,0.1
+llama2,0.2,0.1333,0.4,0.25
+mistral,0.4,0.5333,0.4333,0.15
+phi,0.8333,0.7556,0.4667,0.4

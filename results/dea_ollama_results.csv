@@ -1,0 +1,5 @@
+llama2,DataExtraction,0.2000
+mistral,DataExtraction,0.4000
+gemma,DataExtraction,0.6000
+phi,DataExtraction,0.8333
+deepseek-r1,DataExtraction,0.6333
